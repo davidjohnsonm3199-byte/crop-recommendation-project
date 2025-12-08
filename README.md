@@ -32,17 +32,7 @@ All models and preprocessing tools are loaded from pickle files and run inside a
 
 🧩 Modular and production-ready Streamlit script
 
-📂 Project Structure
-├── stream.py                      # Main Streamlit application
-├── model_pickle_dump/             # Contains imputer, transformer, scaler, and models
-│   ├── imputer.pkl
-│   ├── transformer.pkl
-│   ├── scaler.pkl
-│   ├── logistic_regression_model.pkl
-│   ├── random_forest_model.pkl
-│   └── xgboost_model.pkl
-├── crop_images/                   # Images for each crop (banana.jpeg, rice.jpeg, etc.)
-├── README.md                      # Documentation
+
 
 🛠️ Technologies Used
 
